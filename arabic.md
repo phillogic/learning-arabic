@@ -1,24 +1,23 @@
 # Arabic mindmap
 
 ```mermaid
-
+---
+config:
+  layout: tidy-tree
+---
 mindmap
-  root((ISM))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-  
-
+  root((Words))
+    اسم
+      Status إعراب
+      Number عدد
+        Plurals
+      Gender جنس
+        Biological Feminne
+         أمٌّ ,بَقَرَةٌ
+         
+         
+      Type قسم
+    حرف
+    فعل
 ```
+
