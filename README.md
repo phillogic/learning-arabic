@@ -28,6 +28,13 @@ mindmap
           The broken plural – جَمْعُ التَّكْسِيرِ
           The plural by meaning – اسْمُ الجَمْعِ
     (Type قسم)
+      a. has ال
+      b. proper name
+      c. one being called
+      d. pronouns
+      e. pointing words  (أسماء الإشارة)
+      f. الأسماء الموصولة
+      g. If the word after of is proper, then the word before of is proper
     
 ```
 
