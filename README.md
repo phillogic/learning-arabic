@@ -3,7 +3,7 @@
 ```mermaid
 ---
 config:
-  layout: tidy-tree
+
   theme: dark
 ---
 mindmap
