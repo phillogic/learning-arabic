@@ -164,3 +164,31 @@ Note that the meaning of **كُلّ** changes depending on the number and type o
 
 3. **If the مضاف إليه is plural and definite**, the meaning is **all of**.  
    **Example:** **كُلُّ الْمَسَاجِدِ** — all of the masjids
+
+
+   # Sentences
+Every جَلة اسمية contains an invisible is. Youf find the is by using the break in chain
+
+```mermaid
+
+---
+config:
+  layout: tidy-tree
+  theme: dark
+---
+mindmap
+  root((جَلة اسمية))
+    id(invisible is)
+      break in chain
+        after independent pronouns
+          أَأَنْتُمْ قَوْمٌ مُسْرِفُونَ
+        between a proper & common word
+          وَاللهُ | وَاسِعٌ عَلِيمٌ, and allah is ...
+        الْجَارُّ وَالْمَجْرُورُ     
+        حَرْفُ نَصْبٍ وَاسْمُهَا
+          إِنَّهَا | بَقَرَةٌ صَفْرَاءُ
+        الْإِضَافَةُ
+        الْمَوْصُوفُ وَالصِّفَةُ
+        اسْمُ الْإِشَارَةِ وَالْمُشَارُ إِلَيْهِ
+          أُولَٰئِكَ | أَصْحَابُ النَّارِ
+        حَرْفُ عَطْفٍ
