@@ -192,3 +192,28 @@ mindmap
         اسْمُ الْإِشَارَةِ وَالْمُشَارُ إِلَيْهِ
           أُولَٰئِكَ | أَصْحَابُ النَّارِ
         حَرْفُ عَطْفٍ
+
+```
+
+# Fil
+
+```mermaid
+---
+config:
+  layout: tidy-tree
+  theme: dark
+---
+mindmap
+  root((فعل))
+    الفِعْلُ الْمَاضِي – the past-tense فعل
+    الفِعْلُ الْمُضَارِعُ – the present/future-tense فعل
+    فِعْلُ الْأَمْرِ/النَّهْيِ – the imperative
+````
+
+
+## Fil past tense - الفِعْلُ الْمَاضِي 
+
+A فعل in Arabic differs from an English verb in that every فعل contains a pronoun inside of it. This pronoun
+serves as a doer. Together, an action and a doer make a full sentence. Because a فعل contains both, it is
+considered a full sentence, a جُمْلَة فِعْلِيَّة
+
