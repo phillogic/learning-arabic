@@ -206,6 +206,13 @@ config:
 mindmap
   root((فعل))
     الفِعْلُ الْمَاضِي – the past-tense فعل
+      فَاعِل
+        inside doer
+        outside doer
+          after  فعل
+          is  **مَرْفُوعٌ*
+           The فعل must be in either the **هُوَ** form or the **هِيَ** form
+           The فعل will **MATCH** the فَاعِل in **GENDER**
     الفِعْلُ الْمُضَارِعُ – the present/future-tense فعل
     فِعْلُ الْأَمْرِ/النَّهْيِ – the imperative
 ````
@@ -217,3 +224,30 @@ A فعل in Arabic differs from an English verb in that every فعل contains a 
 serves as a doer. Together, an action and a doer make a full sentence. Because a فعل contains both, it is
 considered a full sentence, a جُمْلَة فِعْلِيَّة
 
+### الفَاعِل – The Doer
+
+The فَاعِل is the doer of the action. There are two types of فَاعِل:
+
+1. **الضَّمِيرُ الْمُسْتَتِرُ** (Inside فَاعِل) – This is the built-in pronoun that every فعل contains.
+2. **فَاعِلٌ ظَاهِرٌ** (Outside فَاعِل) – This type of فَاعِل is used when the doer is someone or something other than a pronoun (e.g., "Muhammad" rather than "he").
+
+#### Rules for an Outside فَاعِل:
+
+1. It must come **AFTER** the فعل
+2. It must be **مَرْفُوعٌ** (nominative)
+3. The فعل must be in either the **هُوَ** form or the **هِيَ** form
+4. The فعل will **MATCH** the فَاعِل in **GENDER**
+
+#### Examples:
+
+| English | Arabic |
+|---|---|
+| Allah helped you at Badr | نَصَرَكُمُ اللَّهُ بِبَدْرٍ
+| The Muslim helped.       | نَصَرَ الْمُسْلِمُ  |
+| The two Muslims helped.  | نَصَرَ الْمُسْلِمَانِ |
+| The Muslims helped.      | نَصَرَ الْمُسْلِمُونَ |
+| The Muslimah helped.     | نَصَرَتْ الْمُسْلِمَةُ  |
+| The two Muslimahs helped.| نَصَرَتْ الْمُسْلِمَتَانِ  |
+| The Muslimahs helped.    | نَصَرَتْ الْمُسْلِمَاتُ  |
+
+**Note:** Only the **هُوَ** form and the **هِيَ** form are used despite the variety in the number of the outside فَاعِل. Also notice that the فعل and outside فَاعِل match in gender.
